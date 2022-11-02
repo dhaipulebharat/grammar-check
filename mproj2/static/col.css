@@ -1,0 +1,32 @@
+body {
+    background-color: white;
+}
+
+#img1 {
+    height: 100%;
+    width: 55%;
+    float: right;
+    position: relative;
+}
+
+#head {
+    font-size: 70px;
+    text-align: center;
+}
+
+textarea {
+    color: black;
+    border-color: black;
+    border-radius: 3%;
+    border-width: 5px;
+    background-color: aliceblue;
+}
+
+#sub {
+    font-size: 30px;
+    margin-left: 16%;
+    padding: 15px;
+    cursor: pointer;
+    background-color: darkcyan;
+    font-weight: 700;
+}
